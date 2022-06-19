@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE Music_Library [
+        <!ELECMENT Music_Library(Title, Artist, Country, Price, Year)>
+        <!ELECMENT Title (#PCDATA)>
+        <!ELECMENT Artist (#PCDATA)>
+        <!ELECMENT Country (#PCDATA)>
+        <!ELECMENT Price (#PCDATA)>
+        <!ELECMENT Year (#PCDATA)>
+        <!ENTITY MS "That life">
+]>
+<Music_Library>
+    <Title>YLO</Title>
+    <Artist>&MS; - Jenny Dan</Artist>
+    <Country>Germany</Country>
+    <Price>$12</Price>
+    <Year>2002</Year>
+</Music_Library>
